@@ -1,0 +1,19 @@
+.cabecalho__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecalho__container--logo {
+    width: 25%;
+}
+
+.cabecalho__container--menu {
+    width: 50%;
+    justify-content: flex-start;
+}
+
+.cabecalho__container--login {
+    width: 25%;
+    justify-content: flex-start;
+}
