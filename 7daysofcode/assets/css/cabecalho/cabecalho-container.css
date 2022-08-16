@@ -1,11 +1,11 @@
 .cabecalho__container {
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 .cabecalho__container--logo {
     width: 25%;
+    justify-content: center;
 }
 
 .cabecalho__container--menu {

@@ -1,6 +1,14 @@
 @import url('./cabecalho/cabecalho.css');
 @import url('./cabecalho/cabecalho-item.css');
 @import url('./cabecalho/cabecalho-container.css');
+@import url('./sobre/sobre.css');
+@import url('./sobre/sobre-item.css');
+
+:root {
+    --main-color: #8E2424;
+    --grey: #667085;
+    --dark-grey: #101828;
+}
 
 body {
     font-family: 'Inter', sans-serif;
@@ -14,3 +22,4 @@ h1, h2, h3, h4, h5, h6 {
 ul, li {
     padding: 0;
 }
+
