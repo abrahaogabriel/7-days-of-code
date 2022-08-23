@@ -1,0 +1,49 @@
+.vagas__profissao{
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--titles);
+  }
+
+.vagas__container {
+    border: 1px solid #151f2e;;
+    border-radius: 0.5rem;
+    padding: 1.3rem;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+    background-color: #111720;
+}
+
+.vagas__cargo {
+    font-weight: 500;
+    margin-bottom: 16px;
+    font-size: 18px;
+    color: var(--titles);
+}
+
+.vagas__informacoes {
+    margin-top: 1.2rem;
+    font-size: 90%;
+    display: flex;
+    gap: 2rem;
+}
+
+.vagas__time {
+    font-size: 16px;
+    color: var(--white);
+}
+
+
+.vagas__salario {
+    font-size: 16px;
+    color: var(--white);
+}
+
+.software-developer {
+    margin-top: 4rem;
+}

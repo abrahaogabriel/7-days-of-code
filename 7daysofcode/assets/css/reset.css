@@ -7,6 +7,8 @@
 @import url('./metrica/metrica-containers.css');
 @import url('./talentos/talentos.css');
 @import url('./talentos/talentos-container.css');
+@import url('./vagas/vagas.css');
+@import url('./vagas/vagas-container.css');
 
 :root {
     --main-color: #FDB927;
@@ -32,4 +34,8 @@ ul, li {
 
 p {
     margin: 0;
+}
+
+span {
+    color: #ebebeb;
 }
