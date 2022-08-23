@@ -31,13 +31,15 @@
 }
 
 .metrica__subtitulo {
-    color: var(--dark-grey);
+    color: var(--titles);
     font-weight: 500;
     font-size: 18px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .metrica__conteudo {
-    color: var(--grey);
+    color: var(--white);
     font-weight: 400;
     font-size: 16px;
 }

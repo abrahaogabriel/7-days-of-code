@@ -5,15 +5,20 @@
 @import url('./sobre/sobre-item.css');
 @import url('./metrica/metrica.css');
 @import url('./metrica/metrica-containers.css');
+@import url('./talentos/talentos.css');
+@import url('./talentos/talentos-container.css');
 
 :root {
-    --main-color: #8E2424;
-    --grey: #667085;
-    --dark-grey: #101828;
+    --main-color: #FDB927;
+    --white: #bfc2ca;
+    --body: #1a1a1a;
+    --titles: #ebebeb;
+
 }
 
 body {
     font-family: 'Inter', sans-serif;
+    background-color: var(--body);
 }
 
 h1, h2, h3, h4, h5, h6 {
