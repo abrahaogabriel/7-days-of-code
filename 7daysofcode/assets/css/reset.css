@@ -9,6 +9,10 @@
 @import url('./talentos/talentos-container.css');
 @import url('./vagas/vagas.css');
 @import url('./vagas/vagas-container.css');
+@import url('./depoimentos/depoimentos.css');
+@import url('./depoimentos/depoimentos-container.css');
+@import url('./rodape/rodape.css');
+@import url('./rodape/rodape-conteudo.css');
 
 :root {
     --main-color: #FDB927;
@@ -37,5 +41,5 @@ p {
 }
 
 span {
-    color: #ebebeb;
+    color: var(--main-color);
 }

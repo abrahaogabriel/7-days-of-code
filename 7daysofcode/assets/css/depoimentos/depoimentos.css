@@ -1,0 +1,8 @@
+.depoimentos {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: flex-start;
+    margin-top: 50px;
+    width: 100%;
+}
